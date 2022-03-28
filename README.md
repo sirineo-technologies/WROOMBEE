@@ -1,5 +1,9 @@
 ## Sobre a WROOMBEE ESP32
 
+<p align="center">
+  <img src="https://github.com/sirineo-technologies/WROOMBEE/blob/main/Figura/wroombee-blinkled-gif.gif" alt="gif wroombee" />
+</p>
+
 ## História da WROOMBEE ESP32
 
 ## Nosso e-mail
