@@ -3,7 +3,7 @@
 Pioneira no mundo, construída com base no form factor do Xbee, este módulo utiliza o poderoso ESP32-WROOM-32,  possui dois Microprocessadores  Xtensa® 32-bit LX6  com até 600 DMIPS (velocidade de processamento). A frequência do clock pode ser de até 240 MHz, dependendo do modelo. A frequência mais comum é 160 MHz ( 10 vezes o clock do Arduino Uno). Possue conectividade WiFi e  Bluetooth Low Energy v4.2 (BLE), integrados ao ESP32 WROOM da ESPRESSIF. Com nosso módulo  você poderá trabalhar com diversos shields ou hardwares do mercado mundial com o soquete  Xbee. 
 
 <p align="center">
-<img width="840" height="382" src="https://github.com/sirineo-technologies/WROOMBEE/blob/main/Figura/wroombee%20-top.JPG">
+<img width="226" height="313" src="https://github.com/sirineo-technologies/WROOMBEE/blob/main/Figura/wroombee%20-top.JPG">
 </p align="center">
 
 Através também da IDE do Arduino ou ESP IDF, você terá também um grande aliado para suas soluções em IoT com aplicações que utilizam o Wi-FI e BLE.
