@@ -23,6 +23,14 @@ Acoplada a BEESP MF e SAMBA BLACK da SiriNEO Technologies, você terá uma ampla
 
 ## História da WROOMBEE ESP32
 
+## DIAGRAMA DE VICENTE
+
+Abaixo nosso diagrama com o resumo das funcionalidades da WROOMBEE ESP32.
+
+<p align="center">
+<img width="594" height="544" src="https://github.com/sirineo-technologies/WROOMBEE/blob/main/Figura/Diagrama%20de%20Vicente%20-%20WROOMBEE%20-%20PNG.png">
+</p align="center">
+
 ## Nosso e-mail
 
 <a target="_blank" href="mailto:sirineotechnologies.adm@gmail.com">
