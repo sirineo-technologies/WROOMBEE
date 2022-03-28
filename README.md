@@ -30,10 +30,15 @@ uma entrada analógica, eu precisava pelo menos de 4 portas analógicas para des
 Sabiamente eu esperei e algum tempo depois fora lançado o ESP32, que trazia mais recursos e principalmente as portas analógicas que eu tanto precisava, o que me fez naquele momento decidir pelo retorno ao projeto do nosso módulo WROOMBEE Xbee form factor. 
 
 <p align="center">
-<img width="885" height="383" src="https://github.com/sirineo-technologies/WROOMBEE/blob/main/Figura/pinagem%20wroombee.png">
+<img width="620" height="276" src="https://github.com/sirineo-technologies/WROOMBEE/blob/main/Figura/pinagem%20esps.jpeg">
 </p align="center">
 
+
 De fato foi um grande desafio, pois eu teria que projetar o módulo considerando algumas particularidades do ESP32-WROOM-32 que eu utilizei no projeto, o fato era que alguns GPIOs, eram utilizados na reinicialização do módulo, além de que quando ele era utilizado com o módulo nas funções WiFi ou BLE, alguns GPIOs eram necessários para essas funcionalidades, principalmente os GPOIs analógicos.
+
+<p align="center">
+<img width="885" height="383" src="https://github.com/sirineo-technologies/WROOMBEE/blob/main/Figura/pinagem%20wroombee.png">
+</p align="center">
 
 Para a programação do firmware eu optei por fazer da forma manual através de um slide switch, o que nos gerou alguma economia com alguns componentes, bem como eliminou alguns problemas que tinha na gravação do firmware nas versões do ESP32 NodeMcu - DevKit V1, que possui um botão de PROG e outro de RESET para caso de falhas na gravação do código.
 
