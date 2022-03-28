@@ -10,11 +10,16 @@ Através também da IDE do Arduino ou ESP IDF, você terá também um grande ali
 
 A SiriNEO Technologies desenvolveu esse módulo com toda a pinagem e recursos com  referência ao Xbee, bastando conectá-la a TiBEE para programação do firmware ou até mesmo na BEESP MF para programação selecionando o modo de Programação através da chave nela integrada.
 
-Acoplada a BEESP MF e SAMBA BLACK da SiriNEO Technologies, você terá uma ampla gama de aplicações a possibilidades de realizar pequenas automações ou aplicações que envolva entrada de dados analógicas de acordo com sua necessidade.
-
 <p align="center">
   <img src="https://github.com/sirineo-technologies/WROOMBEE/blob/main/Figura/wroombee-blinkled-gif.gif" alt="gif wroombee" />
 </p>
+
+
+Acoplada a BEESP MF e SAMBA BLACK da SiriNEO Technologies, você terá uma ampla gama de aplicações a possibilidades de realizar pequenas automações ou aplicações que envolva entrada de dados analógicas de acordo com sua necessidade.
+
+<p align="center">
+<img width="961" height="572" src="https://github.com/sirineo-technologies/WROOMBEE/blob/main/Figura/BMF-%20wroombee%20enodemcu32.jpg">
+</p align="center">
 
 ## História da WROOMBEE ESP32
 
