@@ -34,7 +34,7 @@ Algum tempo depois fora lançado o ESP32, que trazia mais recursos e principalme
 </p align="center">
 
 De fato foi um grande desafio, pois eu teria que projetar o módulo considerando algumas particularidades do ESP32-WROOM-32 que eu utilizei no projeto, o fato era que alguns GPIOs, eram utilizados na reinicialização do módulo,
-além de que quando ele era utilizado como módulo WiFi ou BLE, alguns GPIOs eram utilizados para essas funcionalidades, principalmente os GPOIs anlógicos.
+além de que quando ele era utilizado com o módulo nas funções WiFi ou BLE, alguns GPIOs eram necessários para essas funcionalidades, principalmente os GPOIs analógicos.
 
 Para a programação do firmware eu optei por fazer da forma manual através de um slide switch, o que nos gerou alguma economia com alguns componentes.  
 
