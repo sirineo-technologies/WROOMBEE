@@ -23,11 +23,11 @@ Acoplada a BEESP MF e SAMBA BLACK da SiriNEO Technologies, você terá uma ampla
 
 ## História da WROOMBEE ESP32
 
-A alguns ano eu teria sido procurado por colega par projetar um módulo que utilizasse o ESP8266, naquela época a gente vivia um conflito entre o ESP8266-01 e o Xbee que eu tinha uma grande paixão.
+A alguns anos eu teria sido procurado por colega par projetar um módulo que utilizasse o ESP8266, naquela época a gente vivia um conflito entre o ESP8266-01 e o Xbee que eu tinha uma grande paixão.
 Para eu projetar um módulo nos padrões do formato do xbee eu precisaria de GPIOs analógicos, fato que o módulo ESP8266-12, utilizado na placa de desenvolvimento chamada NodeMCU, trazia apenas
-uma entrada analógica, sendo que eu precisava de 4 portas analógicas para desenvolver a WROOMBEE.
+uma entrada analógica, eu precisava pelo menos de 4 portas analógicas para desenvolver a WROOMBEE.
 
-Algum tempo depois fora lançado o ESP32, que trazia mais recursos e principalmente as portas analógicas que eu tanto precisava, o que me fez naquele momento decidir pelo projeto do nosso módulo WROOMBEE Xbee form factor. 
+Sabiamente eu esperei e algum tempo depois fora lançado o ESP32, que trazia mais recursos e principalmente as portas analógicas que eu tanto precisava, o que me fez naquele momento decidir pelo retorno ao projeto do nosso módulo WROOMBEE Xbee form factor. 
 
 <p align="center">
 <img width="885" height="383" src="https://github.com/sirineo-technologies/WROOMBEE/blob/main/Figura/pinagem%20wroombee.png">
@@ -36,7 +36,8 @@ Algum tempo depois fora lançado o ESP32, que trazia mais recursos e principalme
 De fato foi um grande desafio, pois eu teria que projetar o módulo considerando algumas particularidades do ESP32-WROOM-32 que eu utilizei no projeto, o fato era que alguns GPIOs, eram utilizados na reinicialização do módulo,
 além de que quando ele era utilizado com o módulo nas funções WiFi ou BLE, alguns GPIOs eram necessários para essas funcionalidades, principalmente os GPOIs analógicos.
 
-Para a programação do firmware eu optei por fazer da forma manual através de um slide switch, o que nos gerou alguma economia com alguns componentes.  
+Para a programação do firmware eu optei por fazer da forma manual através de um slide switch, o que nos gerou alguma economia com alguns componentes, bem como eliminou alguns problemas que tinha na gravação do firmware nas  
+versões do ESP32 NodeMcu - DevKit V1, onde possioa um botaão de PROG e outro de RESET para caso de falhas na gravação do código.
 
 <p align="center">
 <img width="776" height="474" src="https://github.com/sirineo-technologies/WROOMBEE/blob/main/Figura/wroombee-tibee-d.PNG">
