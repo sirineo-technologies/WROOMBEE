@@ -37,7 +37,7 @@ De fato foi um grande desafio, pois eu teria que projetar o módulo considerando
 além de que quando ele era utilizado com o módulo nas funções WiFi ou BLE, alguns GPIOs eram necessários para essas funcionalidades, principalmente os GPOIs analógicos.
 
 Para a programação do firmware eu optei por fazer da forma manual através de um slide switch, o que nos gerou alguma economia com alguns componentes, bem como eliminou alguns problemas que tinha na gravação do firmware nas  
-versões do ESP32 NodeMcu - DevKit V1, onde possioa um botaão de PROG e outro de RESET para caso de falhas na gravação do código.
+versões do ESP32 NodeMcu - DevKit V1, que possui um botão de PROG e outro de RESET para caso de falhas na gravação do código.
 
 <p align="center">
 <img width="776" height="474" src="https://github.com/sirineo-technologies/WROOMBEE/blob/main/Figura/wroombee-tibee-d.PNG">
