@@ -1,4 +1,4 @@
-## Sobre a WROOMBEE ESP32
+## Sobre a WROOMBEE ESP32 IoT MÓDULO WiFi/BLE
 
 Pioneira no mundo, construída com base no form factor do Xbee, a WROOMBEE utiliza o poderoso ESP32-WROOM-32,  possui dois Microprocessadores  Xtensa® 32-bit LX6  com até 600 DMIPS (velocidade de processamento). A frequência do clock pode ser de até 240 MHz, dependendo do modelo. A frequência mais comum é 160 MHz ( 10 vezes o clock do Arduino Uno). Possue conectividade híbrida com WiFi ou  Bluetooth Low Energy v4.2 (BLE), integrados ao ESP32 WROOM produzido pela [ESPRESSIF](https://www.espressif.com/). Com nosso módulo  você poderá trabalhar com diversos shields ou hardwares do mercado mundial com o soquete  Xbee. 
 
