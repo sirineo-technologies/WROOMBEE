@@ -23,6 +23,17 @@ Acoplada a BEESP MF e SAMBA BLACK da SiriNEO Technologies, você terá uma ampla
 
 ## História da WROOMBEE ESP32
 
+A alguns ano eu teria sido procurado por colega par projetar um módulo que utilizasse o ESP8266, naquela época a gente vivia um conflito entre o ESP8266-01 e o Xbee que eu tinha uma grande paixão.
+Para eu projetar um módulo nos padrões do formato do xbee eu precisaria de GPIOs analógicos, fato que o módulo ESP8266-12, utilizado na placa de desenvolvimento chamada NodeMCU, trazia apenas
+uma entrada analógica, sendo que eu precisava de 4 portas analógicas para desenvolver a WROOMBEE.
+
+Algum tempo depois fora lançado o ESP32, que trazia mais recursos e principalmente as portas analógicas que eu tanto precisava, o que me fez naquele momento decidir pelo projeto do nosso módulo WROOMBEE Xbee form factor. 
+
+<p align="center">
+<img width="885" height="383" src="https://github.com/sirineo-technologies/WROOMBEE/blob/main/Figura/Diagrama%20de%20Vicente%20-%20WROOMBEE%20-%20PNG.png">
+</p align="center">
+
+
 ## DIAGRAMA DE VICENTE
 
 Abaixo nosso diagrama com o resumo das funcionalidades da WROOMBEE ESP32.
