@@ -18,7 +18,7 @@ A SiriNEO Technologies desenvolveu esse módulo com toda a pinagem e recursos co
 Acoplada a BEESP MF e SAMBA BLACK da SiriNEO Technologies, você terá uma ampla gama de aplicações a possibilidades de realizar pequenas automações ou aplicações que envolva entrada de dados analógicas de acordo com sua necessidade.
 
 <p align="center">
-<img width="961" height="572" src="https://github.com/sirineo-technologies/WROOMBEE/blob/main/Figura/BMF-%20wroombee%20enodemcu32.jpg">
+<img width="800" height="476" src="https://github.com/sirineo-technologies/WROOMBEE/blob/main/Figura/BMF-%20wroombee%20enodemcu32.jpg">
 </p align="center">
 
 ## História da WROOMBEE ESP32
