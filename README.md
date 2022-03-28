@@ -30,7 +30,7 @@ uma entrada analógica, eu precisava pelo menos de 4 portas analógicas para des
 Sabiamente eu esperei e algum tempo depois fora lançado o ESP32, que trazia mais recursos e principalmente as portas analógicas que eu tanto precisava, o que me fez naquele momento decidir pelo retorno ao projeto do nosso módulo WROOMBEE Xbee form factor. 
 
 <p align="center">
-<img width="620" height="276" src="https://github.com/sirineo-technologies/WROOMBEE/blob/main/Figura/pinagem%20esps.jpeg">
+<img width="620" height="276" src="https://github.com/sirineo-technologies/WROOMBEE/blob/main/Figura/esps.jpeg">
 </p align="center">
 
 
